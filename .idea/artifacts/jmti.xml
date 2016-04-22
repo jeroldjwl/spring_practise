@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="jmti">
+    <output-path>$PROJECT_DIR$/target/jmti</output-path>
+    <root id="archive" name="jmti.war" />
+  </artifact>
+</component>
